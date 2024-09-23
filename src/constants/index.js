@@ -24,7 +24,7 @@ export const EXPERIENCES = [
     technologies: ["PHP Native", "CSS", "MySQL", "Javascript"],
   },
   {
-    year: "2024 - (Juni - Juli)",
+    year: "2024 - (Juni - September)",
     role: "IT Web Developer Intern",
     company: "Invaite.id",
     description: `Helping slicing website designs into lines of code so that it can become an interactive online invitation website that customers want. The online invitation website is equipped with features for sending messages and impressions as well as confirming attendance which is connected to a database in real time. This website has been hosted and received by customers.`,
